@@ -1,1 +1,1 @@
-Print("Alhumdulillah")
+print("Alhumdulillah")
